@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\PMTM\2001207011_NguyenThanhDat_B4\Buoi4\DoAn.Net\Buoi4\ChucNang\bin\Debug\ChucNang.dll
+E:\LuuDuLieuSinhVien\PMTM\2001207011_NguyenThanhDat_B4\Buoi4\DoAn.Net\Buoi4\ChucNang\bin\Debug\ChucNang.pdb
+E:\LuuDuLieuSinhVien\PMTM\2001207011_NguyenThanhDat_B4\Buoi4\DoAn.Net\Buoi4\ChucNang\obj\Debug\ChucNang.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\PMTM\2001207011_NguyenThanhDat_B4\Buoi4\DoAn.Net\Buoi4\ChucNang\obj\Debug\ChucNang.dll
+E:\LuuDuLieuSinhVien\PMTM\2001207011_NguyenThanhDat_B4\Buoi4\DoAn.Net\Buoi4\ChucNang\obj\Debug\ChucNang.pdb
+E:\LuuDuLieuSinhVien\PMTM\2001207011_NguyenThanhDat_B4\Buoi4\DoAn.Net\Buoi4\ChucNang\obj\Debug\ChucNang.UserControl_Test.resources

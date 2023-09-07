@@ -1,13 +1,13 @@
-﻿namespace _2001207011_NguyenThanhDat_Buoi4_Demo_Github
+﻿namespace ChucNang
 {
-    partial class Form1
+    partial class UserControl_Test
     {
-        /// <summary>
+        /// <summary> 
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
+        /// <summary> 
         /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
@@ -20,39 +20,39 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region Component Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
-            this.userControl_Test1 = new ChucNang.UserControl_Test();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
-            // userControl_Test1
+            // comboBox1
             // 
-            this.userControl_Test1.Location = new System.Drawing.Point(137, 43);
-            this.userControl_Test1.Name = "userControl_Test1";
-            this.userControl_Test1.Size = new System.Drawing.Size(420, 218);
-            this.userControl_Test1.TabIndex = 0;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(150, 12);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.TabIndex = 0;
             // 
-            // Form1
+            // UserControl_Test
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(656, 422);
-            this.Controls.Add(this.userControl_Test1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Controls.Add(this.comboBox1);
+            this.Name = "UserControl_Test";
+            this.Size = new System.Drawing.Size(420, 218);
+            this.Load += new System.EventHandler(this.UserControl_Test_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private ChucNang.UserControl_Test userControl_Test1;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }
-
